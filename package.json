@@ -1,0 +1,12 @@
+{
+  "name": "vite-resolve-import-unicode-typescript",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "2.0.1",
+    "typescript": "4.1.5"
+  }
+}
